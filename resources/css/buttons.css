@@ -13,3 +13,15 @@
 .btn-green{
     @apply bg-green-600 hover:bg-green-500;
 }
+
+.btn-amber{
+    @apply bg-amber-600 hover:bg-amber-500;
+}
+
+.btn-indigo{
+    @apply bg-indigo-600 hover:bg-indigo-500;
+}
+
+.btn-yellow{
+    @apply bg-yellow-600 hover:bg-yellow-500;
+}
