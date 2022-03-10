@@ -111,7 +111,7 @@
                                     </a>
 
                                     {{-- botón rojo Eliminar --}}
-                                    <a class="btn btn-green ml-2" 
+                                    <a class="btn btn-red ml-2" 
                                         wire:click="$emit('deletePost', {{ $item->id }})">
                                         <i class="fas fa-trash"></i>
                                     </a>
