@@ -1,0 +1,3 @@
+# Normalmante se ignora la base de datos
+# Yo NO la voy a ignorar, para tenerna de backup en el repositorio
+# *.sqlite*
