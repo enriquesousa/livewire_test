@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "shufo.vscode-blade-formatter",
+        "streetsidesoftware.code-spell-checker",
+        "onecentlin.laravel-blade",
+        "codingyu.laravel-goto-view",
+        "onecentlin.laravel5-snippets",
+        "bmewburn.vscode-intelephense-client",
+        "streetsidesoftware.code-spell-checker-spanish",
+        "bradlc.vscode-tailwindcss",
+        "equinusocio.vsc-material-theme-icons"
+    ]
+}
